@@ -1,0 +1,11 @@
+C:\Users\ankit\OneDrive\Documents\CIDM 3312\Assignment_0\bin\Debug\netcoreapp3.0\Assignment_0.exe
+C:\Users\ankit\OneDrive\Documents\CIDM 3312\Assignment_0\bin\Debug\netcoreapp3.0\Assignment_0.deps.json
+C:\Users\ankit\OneDrive\Documents\CIDM 3312\Assignment_0\bin\Debug\netcoreapp3.0\Assignment_0.runtimeconfig.json
+C:\Users\ankit\OneDrive\Documents\CIDM 3312\Assignment_0\bin\Debug\netcoreapp3.0\Assignment_0.runtimeconfig.dev.json
+C:\Users\ankit\OneDrive\Documents\CIDM 3312\Assignment_0\bin\Debug\netcoreapp3.0\Assignment_0.dll
+C:\Users\ankit\OneDrive\Documents\CIDM 3312\Assignment_0\bin\Debug\netcoreapp3.0\Assignment_0.pdb
+C:\Users\ankit\OneDrive\Documents\CIDM 3312\Assignment_0\obj\Debug\netcoreapp3.0\Assignment_0.csprojAssemblyReference.cache
+C:\Users\ankit\OneDrive\Documents\CIDM 3312\Assignment_0\obj\Debug\netcoreapp3.0\Assignment_0.AssemblyInfoInputs.cache
+C:\Users\ankit\OneDrive\Documents\CIDM 3312\Assignment_0\obj\Debug\netcoreapp3.0\Assignment_0.AssemblyInfo.cs
+C:\Users\ankit\OneDrive\Documents\CIDM 3312\Assignment_0\obj\Debug\netcoreapp3.0\Assignment_0.dll
+C:\Users\ankit\OneDrive\Documents\CIDM 3312\Assignment_0\obj\Debug\netcoreapp3.0\Assignment_0.pdb
